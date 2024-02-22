@@ -1,6 +1,6 @@
 # Hydrate Wear OS App 💧⌚
 
- ![WearOs](https://github.com/abualgait/HydrateWearOSApp/assets/38107393/3a088671-20e2-49bb-8753-f383ef777303)
+![UpdatedWearOsApp](https://github.com/abualgait/HydrateWearOSApp/assets/38107393/093574fc-2dc4-4eaf-bcd3-059b020bfdbf)
 
 
 ## Overview 🚀
